@@ -8,4 +8,4 @@ Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898738/
 
 This paper has done an intensive study hospital management, which could provide crucial knowledge of hospital stay and healthcare investment.
 
-## The code was originally writted in Colab.
+# The code was originally written in Colab.
